@@ -5,4 +5,4 @@ At the momento all the components are just base on transmon qubits and CPW.
 
 ## Two-Qubit superconducting design
 
-![alt text](C:\Users\Kevin Joven\OneDrive\Escritorio\UD-House\Prueba.png)
+![alt text](C:\Users\KevinJoven\OneDrive\Escritorio\UD-House\Prueba.png)
